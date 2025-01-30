@@ -4,7 +4,7 @@ I'm Ervin Antal, aka: antalervin19.
 
 ### Fact:
 
-- I'm a <div display="flex><img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" alt="Windows"></div> user.
+- I'm a <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" alt="Windows"> user.
 
 **I mostly use**
 
