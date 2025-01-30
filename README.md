@@ -13,9 +13,10 @@ I'm Ervin Antal, aka: antalervin19.
   <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white" alt="MSVC2022PREV"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" alt="VSC"/>
   <img src="https://img.shields.io/badge/SteamVR-%23232F3E.svg?logo=steam&logoColor=white" alt="SteamVR"/>
-  <img src="https://img.shields.io/badge/SteamVR-%23232F3E.svg?logo=steam&logoColor=white" alt="SteamVR"/>
+  <img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white" alt="UnityEngine"/>
 </div>
 
 ### Currently WIP
@@ -34,5 +35,8 @@ I'm Ervin Antal, aka: antalervin19.
   </a>
   <a href="https://www.tiktok.com/@ervinantal19">
     <img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
+  <a href="https://steamcommunity.com/id/antalervin19/">
+    <img src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white" alt="Steam"/>
   </a>
 </div>
