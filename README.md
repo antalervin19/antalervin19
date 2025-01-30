@@ -1,6 +1,6 @@
 ## Sup man? 👋
 
-I'm Ervin Antal, AKA antalervin19.
+I'm Ervin Antal, aka: antalervin19.
 
 **I mostly use**
 
