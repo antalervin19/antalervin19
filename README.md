@@ -20,8 +20,7 @@ I'm Ervin Antal, aka: antalervin19.
 
 ### Currently WIP
 
-- MonMulti, A multiplayer mod for the game Mon Bazou. https://github.com/antalervin19/MonMulti
-- A few private projects that are not yet out to the public.
+- DAY10: Horror Survival game made in Unity 6
 
 ### You can reach me on:
 
