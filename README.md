@@ -20,7 +20,7 @@ I'm Ervin Antal, aka: antalervin19.
 
 ### Currently WIP
 
-- DAY10: Horror Survival game made in Unity 6
+- URBEXCAM: Horror UrbanExploration game made in Unity 6; Available on Steam: Soon!
 
 ### You can reach me on:
 
