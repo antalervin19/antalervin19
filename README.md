@@ -1,10 +1,12 @@
 ## Sup man? 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=antalervin19&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 I'm Ervin Antal, aka: antalervin19.
 
-### Fact:
+- Desktop: <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" alt="Windows">.
+- Server: <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">.
 
-- I'm a <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" alt="Windows"> user.
 
 **I mostly use**
 
