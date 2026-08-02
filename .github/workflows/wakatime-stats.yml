@@ -9,12 +9,12 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
 
-steps:
-   - name: Checkout code
-     uses: actions/checkout@v2
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
 
-   - uses: claserre9/wakatime-stats@master
-     with:
-       WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-       WAKATIME_USER_ID: ${{ secrets.WAKATIME_USER_ID }}
-       GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      - uses: claserre9/wakatime-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_USER_ID: ${{ secrets.WAKATIME_USER_ID }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
