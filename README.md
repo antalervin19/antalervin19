@@ -3,7 +3,38 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=antalervin19&theme=dark&date_format=%5BY%20%5DM%20j&background=45%2C00016C%2C000000" alt="GitHub Streak" /></a>
 
 [//]: # (wakatime-stats)
+
+### Wakatime Stats
+```
++--------- All Time Stats for Programming Languages ---------+
+| Programming Languages     | Total Hours                    |
++---------------------------+--------------------------------+
+| C++                       |         41 hrs 43 mins         |
+| C#                        |         19 hrs 24 mins         |
+| Python                    |         14 hrs 14 mins         |
+| CMake                     |         5 hrs 23 mins          |
+| YAML                      |         3 hrs 53 mins          |
++---------------------------+--------------------------------+
+
+
++---------------- All Time Stats for Editors ----------------+
+| Editors                   | Total Hours                    |
++---------------------------+--------------------------------+
+| VS Code                   |        101 hrs 48 mins         |
+| Visual Studio             |         5 hrs 51 mins          |
++---------------------------+--------------------------------+
+
+
++----------- All Time Stats for Operating Systems -----------+
+| Operating Systems         | Total Hours                    |
++---------------------------+--------------------------------+
+| Windows                   |        107 hrs 42 mins         |
++---------------------------+--------------------------------+
+```
+
 [//]: # (end-wakatime-stats)
+
+
 
 <a href="https://wakatime.com/@962b4121-4569-43da-86ce-18d9871467e9"><img src="https://wakatime.com/badge/user/962b4121-4569-43da-86ce-18d9871467e9.svg" alt="Total time coded since Aug 24 2025" /></a>
 
