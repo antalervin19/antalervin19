@@ -2,6 +2,9 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=antalervin19&theme=dark&date_format=%5BY%20%5DM%20j&background=45%2C00016C%2C000000" alt="GitHub Streak" /></a>
 
+[//]: # (wakatime-stats)
+[//]: # (end-wakatime-stats)
+
 ###
 
 I'm Ervin Antal, aka: antalervin19.
