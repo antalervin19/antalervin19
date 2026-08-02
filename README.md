@@ -61,6 +61,9 @@ I'm Ervin Antal, aka: antalervin19.
 ### Currently WIP
 
 - URBEXCAM: Horror UrbanExploration game made in Unity 6; Available on Steam: Soon!
+- MONMULTI: SteamNetworked Multiplayer Mod for Mon-Bazou                    : Soon!
+- HyperX  : Custom C++ GameEngine for mainly 3D applications                : Closed Source!
+- CAL_MP  : SteamNetworked Multiplayer Mod for Cats-Are-Liquid              : Source at @cablesalty
 
 ### You can reach me on:
 
