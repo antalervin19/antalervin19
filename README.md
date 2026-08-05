@@ -9,10 +9,10 @@
 +--------- All Time Stats for Programming Languages ---------+
 | Programming Languages     | Total Hours                    |
 +---------------------------+--------------------------------+
-| C++                       |         41 hrs 43 mins         |
-| C#                        |         19 hrs 24 mins         |
-| Python                    |         14 hrs 14 mins         |
-| CMake                     |         5 hrs 23 mins          |
+| C++                       |         48 hrs 35 mins         |
+| C#                        |         19 hrs 48 mins         |
+| Python                    |         14 hrs 15 mins         |
+| CMake                     |         5 hrs 54 mins          |
 | YAML                      |         3 hrs 53 mins          |
 +---------------------------+--------------------------------+
 
@@ -20,7 +20,7 @@
 +---------------- All Time Stats for Editors ----------------+
 | Editors                   | Total Hours                    |
 +---------------------------+--------------------------------+
-| VS Code                   |        101 hrs 48 mins         |
+| VS Code                   |        110 hrs 47 mins         |
 | Visual Studio             |         5 hrs 51 mins          |
 +---------------------------+--------------------------------+
 
@@ -28,11 +28,13 @@
 +----------- All Time Stats for Operating Systems -----------+
 | Operating Systems         | Total Hours                    |
 +---------------------------+--------------------------------+
-| Windows                   |        107 hrs 42 mins         |
+| Windows                   |        116 hrs 41 mins         |
 +---------------------------+--------------------------------+
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
