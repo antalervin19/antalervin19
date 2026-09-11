@@ -10,8 +10,8 @@
 | Programming Languages     | Total Hours                    |
 +---------------------------+--------------------------------+
 | C++                       |         71 hrs 46 mins         |
-| C#                        |         36 hrs 2 mins          |
-| Python                    |         20 hrs 19 mins         |
+| C#                        |         37 hrs 4 mins          |
+| Python                    |         20 hrs 24 mins         |
 | CMake                     |         8 hrs 12 mins          |
 | HTML                      |         6 hrs 26 mins          |
 +---------------------------+--------------------------------+
@@ -20,7 +20,7 @@
 +---------------- All Time Stats for Editors ----------------+
 | Editors                   | Total Hours                    |
 +---------------------------+--------------------------------+
-| VS Code                   |        167 hrs 59 mins         |
+| VS Code                   |         169 hrs 6 mins         |
 | Visual Studio             |         11 hrs 10 mins         |
 | Copilot CLI               |         3 hrs 19 mins          |
 | Visual                    |            15 mins             |
@@ -30,11 +30,13 @@
 +----------- All Time Stats for Operating Systems -----------+
 | Operating Systems         | Total Hours                    |
 +---------------------------+--------------------------------+
-| Windows                   |        182 hrs 47 mins         |
+| Windows                   |        183 hrs 54 mins         |
 +---------------------------+--------------------------------+
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
